@@ -1,7 +1,7 @@
 # BatchResizeImages.py
 A small python script to batch resize images.
 
-# Installation and usage
+## Installation and usage
 All the required dependancies can be installed with pip using the following command:
 
 ```bash
